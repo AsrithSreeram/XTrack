@@ -2,7 +2,6 @@
 //  ContentView.swift
 //  CovidTracker
 //
-//  Created by Asrith Sreeram on 12/15/20.
 //
 
 import Foundation

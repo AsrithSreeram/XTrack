@@ -1,4 +1,3 @@
-////  Question.swift//  CovidTracker////  Created by Software Development HS_902 on 12/20/20.//  Copyright  2020 Software Development HS_902. All rights reserved.//
 import Foundation
 @available(iOS 14.0, *)
 class Question: Identifiable, ObservableObject {

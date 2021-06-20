@@ -2,7 +2,6 @@
 //  ContractsView.swift
 //  Pods
 //
-//  Created by Software Development HS_902 on 12/17/20.
 //
 
 import SwiftUI

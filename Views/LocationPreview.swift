@@ -2,8 +2,7 @@
 //  LocationPreview.swift
 //  CovidTracker
 //
-//  Created by Software Development HS_902 on 12/22/20.
-//  Copyright © 2020 Software Development HS_902. All rights reserved.
+
 //
 
 import SwiftUI

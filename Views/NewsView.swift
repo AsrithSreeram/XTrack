@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CovidTracker
 //
-//  Created by Software Development HS_902 on 12/15/20.
+
 //
 
 import Foundation

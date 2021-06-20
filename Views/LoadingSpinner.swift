@@ -2,8 +2,7 @@
 //  LoadingSpinner.swift
 //  CovidTracker
 //
-//  Created by Software Development HS_902 on 1/9/21.
-//  Copyright © 2021 Software Development HS_902. All rights reserved.
+
 //
 
 import SwiftUI

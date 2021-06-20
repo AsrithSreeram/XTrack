@@ -3,7 +3,6 @@
 //  CovidTracker
 //
 //  Created by Software Development HS_902 on 12/17/20.
-//  Copyright © 2020 Software Development HS_902. All rights reserved.
 //
 
 import SwiftUI

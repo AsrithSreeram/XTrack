@@ -2,8 +2,6 @@
 //  AppDelegate.swift
 //  CovidTracker
 //
-//  Created by Software Development HS_902 on 11/14/20.
-//  Copyright © 2020 Software Development HS_902 All rights reserved.
 //
 
 import UIKit
@@ -28,34 +26,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             guard let user = authResult?.user else { return }
             let uid = user.uid
         }
-        /*
-        let finalUser = Auth.auth().currentUser
-        if let currentUser = finalUser {
-            print("anon_id", currentUser.uid)
-            print("Good", User(currentUser.uid).riskAssesment)
-        }*/
-      //  var location: Location = Location("Walmart","3467 Lincoln Hwy E, Thorndale, PA 19372")
-       // print("Got location", location.address)
-        
-        //var news: NewsPost = NewsPost("Covid-19","Pfizer Vaccine got approved for emergency use",UIImage(imageLiteralResourceName: "basketball"),Timestamp())
-        
-        //var news2: NewsPost = NewsPost("Politics","Trump",UIImage(imageLiteralResourceName: "basketball"),Timestamp())
-        //print("Got news", news)
-        //var newsFeed = NewsPost.getAllPosts()
-        //print(newsFeed)
-        /*
-        NewsPost.getAllPosts()
-        let posts = NewsPost.newsArr
-        print("Bruh 0: "+String(posts.count))
-        let dateFormatter = DateFormatter()
-        dateFormatter.timeStyle = .short
-    
-        for post in posts{
-             print("Bruh 1"+post.title)
-             print("Bruh 2"+post.body)
-            print("Bruh 3"+dateFormatter.string(from: post.date.dateValue())+"/n")
-        }
-        */
+
         var location = Location("Walmart", "3467 Lincoln Hwy E, Thorndale, PA 19372")
         location = Location("GIANT", "168 Eagleview Blvd, Exton, PA 19341")
         print("Location was created",location.name)
